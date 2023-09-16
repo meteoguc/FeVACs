@@ -1,6 +1,6 @@
-## FeVACs: FEniCS Visualizing Acoustic Scattering
+## FeVAcS: FEniCS Visualizing Acoustic Scattering
 
-FeVACs is an open-source finite element software designed to streamline exterior acoustic analyses, particularly for scenarios involving multiple obstacles arranged periodically. It facilitates lattice placement parameters, mesh generation, variational formulation, and the display of contour plots for the results. The software also offers a browser-based solution display, enhancing the ease of sharing and comprehending this complex physical phenomenon.
+FeVAcS is an open-source finite element software designed to streamline exterior acoustic analyses, particularly for scenarios involving multiple obstacles arranged periodically. It facilitates lattice placement parameters, mesh generation, variational formulation, and the display of contour plots for the results. The software also offers a browser-based solution display, enhancing the ease of sharing and comprehending this complex physical phenomenon.
 
 ## Installation
 *Note: These instructions are intended for a specific system setup. Advanced users may use alternative methods based on their setup and preferences.*
