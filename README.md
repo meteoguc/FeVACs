@@ -8,8 +8,9 @@ FeVACs is an open-source finite element software designed to streamline exterior
 1. To use this software with a Windows 10 Home operating system, follow these steps:
 
 Ensure you have the latest version of Docker (https://www.docker.com) installed on your system.
-As of today, this software runs with Docker v4.22.1 on a computer with Windows 10 Home 22H2 OS.
-Please note that Windows Home or Education editions will only allow you to run Linux containers.
+
+*As of today, this software runs with Docker v4.22.1 on a computer with Windows 10 Home 22H2 OS.
+Please note that Windows Home or Education editions will only allow you to run Linux containers.*
 
 2. Install FEniCS within a Docker container using the following command:
 
@@ -28,4 +29,5 @@ Please note that Windows Home or Education editions will only allow you to run L
    This can be done using GitHub Desktop (https://desktop.github.com/)
 
 5. Run the installed container using Docker and access the FeVACs.ipynb Jupyter Notebook.
+
    *You can modify the input parameters to analyze various geometrical setups and obtain results for your analysis.*
